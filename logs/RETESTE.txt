@@ -1,0 +1,39 @@
+Venda Promocode papa fila [Bob's Max]                                 | FAIL |
+Element locator 'id=br.com.efetiva.degust.activity:id/pagamento_txtMsgSucesso' did not match any elements after 40 seconds
+OK!!
+------------------------------------------------------------------------------
+Venda Promocode papa fila [Batata Palito G]                           | FAIL |
+Element locator 'id=br.com.efetiva.degust.activity:id/edtCPF' did not match any elements after 5 seconds
+OK!!
+------------------------------------------------------------------------------
+Venda Promocode papa fila [Big Bob + Refri]                           | FAIL |
+Element locator 'id=br.com.efetiva.degust.activity:id/edtCPF' did not match any elements after 5 seconds
+OK!!
+------------------------------------------------------------------------------
+Venda Promocode papa fila [Batata Palito M + Milk Shake 300ml]        | FAIL |
+Element locator 'id=br.com.efetiva.degust.activity:id/rodape_btnConfirmarNovo' did not match any elements after 20 seconds
+OK!!
+------------------------------------------------------------------------------
+Venda Promocode papa fila [Trio Tentador Veggie Carne]                | FAIL |
+Several failures occurred:
+# CUPOM BF03105 NÃO FUNCIONA
+------------------------------------------------------------------------------
+Venda Promocode papa fila [Trio Big Bob + Trio Cheddar Australiano... | FAIL |
+InvalidElementStateException: Message: Unable to perform W3C actions. Check the logcat output for possible error reports and make sure your input actions chain is valid.
+Stacktrace:
+OK
+--------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Venda Promocode papa fila [3 Trios Big Bob]                           | FAIL |
+The text of element 'id=br.com.efetiva.degust.activity:id/pagamento_txtAPagar' should have been '82.90' but in fact it was '82.89'.
+------------------------------------------------------------------------------
+Venda Promocode papa fila [3 Trio Cheddar Australiano]                | FAIL |
+The text of element 'id=br.com.efetiva.degust.activity:id/pagamento_txtAPagar' should have been '82.90' but in fact it was '82.89'.
+------------------------------------------------------------------------------
+Venda Promocode papa fila [2 Trios Bob's Costela + 2 Sundaes]         | FAIL |
+InvalidElementStateException: Message: Unable to perform W3C actions. Check the logcat output for possible error reports and make sure your input actions chain is valid.
+Stacktrace:
+OK!!
+------------------------------------------------------------------------------
+Venda Promocode papa fila [Trio Bob's Premium com 15% de desconto]    | FAIL |
+32.31 != 32.3
