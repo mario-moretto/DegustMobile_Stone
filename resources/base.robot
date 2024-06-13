@@ -19,12 +19,12 @@ Abrir App
 
 
     #...                 app=${EXECDIR}/app/degustmobile.apk
-    ...                 app=C:\\Users\\mario.moretto\\Documents\\QA_Automação\\LinxDegustMobile-TestAutomation\\automacao_robot\\DegustMobile_Stone\\app\\degustmobile.apk
+    ...                 app=C:\\Users\\mario.moretto\\Documents\\Automacao_robot\\DegustMobile_Stone\\app\\degustmobile.apk
     #...                 udid=494b475834593398
-    ...                 udid=4AF30P928
-    #...                 udid=PBF921CE70418             
+    #...                 udid=4AF30P928
+    ...                 udid=PB10216A58612             
     #...                 udid=emulator-5556
-    #...                 udid=emulator-5554
+    ...                 autograntPermissions=true
     ...                 noReset=${True}
     
     # checkpoint para garantir se estamos no lugar certo
